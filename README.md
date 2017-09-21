@@ -24,6 +24,7 @@ n'écrivez pas les < et > ils ont la pour indiquer quel nom entrer dans la comma
 			
 -enfin il faut faire un "push" pour synchroniser avec le Hub votre travail avec :$ git push
 			origin <nom de la branche>  
+			A ce stade git vous demande votre nom d'utilisateur et votre mot de passe pour pouvoir 				upload votre travail.
 			
 On verra plus tard si on travaille sur plusieurs branches pour ne pas poluer le code qui marche
 			avec des essais.
